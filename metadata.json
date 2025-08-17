@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Trading Dashboard",
+  "description": "A sophisticated crypto trading dashboard providing real-time data, AI-driven analysis, and trade signals. It features an interactive chart, market data, and bot performance statistics.",
+  "requestFramePermissions": []
+}
